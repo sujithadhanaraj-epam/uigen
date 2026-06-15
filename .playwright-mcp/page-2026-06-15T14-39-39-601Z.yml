@@ -1,0 +1,36 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - generic [ref=e57]: Create a dashboard stats card component with user metrics like total users, revenue, and growth percentage
+            - img [ref=e60]
+          - generic [ref=e63]:
+            - img [ref=e66]
+            - generic [ref=e71]:
+              - generic [ref=e74]: Created App.jsx
+              - separator [ref=e75]
+              - paragraph [ref=e77]: "Now let me create the StatsCard component:"
+              - generic [ref=e78]:
+                - img [ref=e79]
+                - generic [ref=e81]: Generating...
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e82]:
+        - generic [ref=f4e5]:
+          - heading "Dashboard" [level=1] [ref=f4e6]
+          - paragraph [ref=f4e7]: Monitor your key metrics and performance
+  - alert [ref=e47]
